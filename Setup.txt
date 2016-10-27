@@ -10,7 +10,7 @@ How to Run the SetCalculator in the Xcode
 
 How to Operate the SetCalculator
 -----------------------------
-1. To start the OCSetManager or List SetListSetManager please press press 'StartOCManager' button or 'StartListManager' button.
+1. To start the OCSetManager or List SetListSetManager press 'StartOCManager' button or 'StartListManager' button.
 2. In the input field enter any integer and then Press:
 	-- 'Add' button to add it to set A
 	-- 'Remove' button to remove it from set A
@@ -26,12 +26,3 @@ How to Operate the SetCalculator
 	-- A: will display the current values of set A
 	-- B: will display the current values of set B
 	-- Status: All kinds of status messages like if an operation is sucessful or not, output of size, invalid input etc.
-
-
-
-Submitted By:
-Md Abu Naser Bikas
-mbikas2@uic.edu
-UIN:651644268 
-
-
